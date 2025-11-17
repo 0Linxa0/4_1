@@ -32,7 +32,11 @@
                             s.addStudent(new Student(name, age));
                             break;
                         case 2:
-                        var students = s.getStudents(); for (Student current : students) { System.out.println(current.toString()); } break;
+                        var students = s.getStudents(); 
+                        for (Student current : students) { 
+                            System.out.println(current.toString()); 
+                        } 
+                        break;
                         case 0:
                             System.out.println("Koniec programu.");
                             break;

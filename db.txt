@@ -16,3 +16,13 @@ Krzysztof 20
 Janusz 40
 Dawid 54
 lule 45
+Krzysztof 20
+Janusz 40
+Dawid 54
+Krzysztof 20
+Janusz 40
+Dawid 54
+Krzysztof 20
+Janusz 40
+Dawid 54
+Lulo 23
